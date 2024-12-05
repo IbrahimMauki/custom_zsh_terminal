@@ -1,5 +1,5 @@
 # Tutorial for customizing a terminal
-
+##ls
 ## Start with installing the `zsh` in your system
 ```sh
  sudo apt install zsh
